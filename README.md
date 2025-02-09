@@ -1,10 +1,4 @@
-**Anmol's Portfolio Project**
-
-
-
 **Motorcycle Sales Data Analysis in India**
-
-
 
 **Overview**
 
@@ -13,6 +7,7 @@ This project analyzes motorcycle sales data in India using SQL to clean, standar
 --------------------------------------------------------------------------------------------------------------------------
 
 **Dataset**
+
 The dataset was generated using chatGPT which contains motorcycle sales transactions, including:
 - Dealer Details (Dealer Name, State, City)
 - Bike Information (Brand, Model, Category, Engine CC)
@@ -128,18 +123,7 @@ order by total_bikes_sold desc;
 
 
 
-## H2
-### H3
-Bold	**bold text**
-Italic	*italicized text*
-Blockquote	> blockquote
-Ordered List	1. First item
-2. Second item
-3. Third item
-Unordered List	- First item
-- Second item
-- Third item
-Code	`code`
-Horizontal Rule	---
+
+
 Link	[title](https://www.example.com)
 Image	![alt text](image.jpg)
