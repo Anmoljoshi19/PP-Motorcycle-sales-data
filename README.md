@@ -6,6 +6,13 @@ This project analyzes motorcycle sales data in India using SQL to clean, standar
 
 --------------------------------------------------------------------------------------------------------------------------
 
+**Tools Used**
+
+MySQL – Data Cleaning, Transformation & Analysis
+Power BI – For Visualizations
+
+--------------------------------------------------------------------------------------------------------------------------
+
 **Dataset**
 
 The dataset was generated using chatGPT which contains motorcycle sales transactions, including:
@@ -138,6 +145,11 @@ order by total_bikes_sold desc;
 ```
 [SQL-code-motorcycle-sales-analysis](https://github.com/Anmoljoshi19/PP-Motorcycle-sales-data/blob/main/motorcycle_sales_india.sql)
 
+--------------------------------------------------------------------------------------------------------------------------
 
+**Conclusion**
+
+This project helps businesses optimize motorcycle sales strategies by understanding regional demand, payment preferences, and dealership performance. 
+The findings enable data-driven decision-making for inventory management, pricing, and marketing.
 
 Image	![alt text](image.jpg)
