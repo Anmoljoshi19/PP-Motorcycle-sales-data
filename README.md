@@ -25,7 +25,7 @@ modify sale_date date ;
 
 alter table motorcycle_sales_india
 modify Engine_CC int ;
-```
+
 -- 2. Rearranged columns (Dealer_Name, State, City) for better readability.
 
 alter table motorcycle_sales_india
@@ -81,7 +81,7 @@ WHERE Engine_CC > 125
 AND REGEXP_SUBSTR(Bike_Model, '[0-9]+') > 125
 AND Engine_CC <> REGEXP_SUBSTR(Bike_Model, '[0-9]+');
 
-
+```
 **Key Insights**
 
 -- 1.  Best-Selling Brands & Models
