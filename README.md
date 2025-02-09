@@ -5,7 +5,6 @@
 This project analyzes motorcycle sales data in India using SQL to clean, standardize, and extract insights. The goal is to provide business-driven recommendations to improve sales, optimize inventory, and enhance customer engagement.
 
 --------------------------------------------------------------------------------------------------------------------------
---------------------------------------------------------------------------------------------------------------------------
 
 **Dataset**
 
@@ -26,6 +25,8 @@ modify sale_date date ;
 
 alter table motorcycle_sales_india
 modify Engine_CC int ;
+
+--------------------------------------------------------------------------------------------------------------------------
 
 -- 2. Rearranged columns (Dealer_Name, State, City) for better readability.
 
