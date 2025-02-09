@@ -6,6 +6,7 @@
 **Overview**
 This project analyzes motorcycle sales data in India using SQL to clean, standardize, and extract insights. The goal is to provide business-driven recommendations to improve sales, optimize inventory, and enhance customer engagement.
 
+--------------------------------------------------------------------------------------------------------------------------
 
 **Dataset**
 The dataset was generated using chatGPT which contains motorcycle sales transactions, including:
@@ -13,12 +14,12 @@ The dataset was generated using chatGPT which contains motorcycle sales transact
 - Bike Information (Brand, Model, Category, Engine CC)
 - Sales Data (Sale Date, Quantity, Payment Mode)
 
+--------------------------------------------------------------------------------------------------------------------------
 
 **Data Cleaning & Standardization**
+```sql
 
 -- 1. Converted sale_date and engine_cc columns to appropriate data types.
-
-```sql
 
 alter table motorcycle_sales_india
 modify sale_date date ;
@@ -82,7 +83,10 @@ AND REGEXP_SUBSTR(Bike_Model, '[0-9]+') > 125
 AND Engine_CC <> REGEXP_SUBSTR(Bike_Model, '[0-9]+');
 
 ```
+--------------------------------------------------------------------------------------------------------------------------
+
 **Key Insights**
+```
 
 -- 1.  Best-Selling Brands & Models
 
@@ -116,6 +120,7 @@ from motorcycle_sales_india
 group by Dealer_Name, state, city
 order by total_bikes_sold desc;
 
+```
 
 
 
