@@ -1,4 +1,4 @@
-**Motorcycle Sales Data Analysis in India**
+[Motorcycle Sales Data Analysis in India](https://github.com/Anmoljoshi19/PP-Motorcycle-sales-data/blob/main/motorcycle_sales_india.csv)
 
 **Overview**
 
@@ -13,7 +13,6 @@ The dataset was generated using chatGPT which contains motorcycle sales transact
 - Bike Information (Brand, Model, Category, Engine CC)
 - Sales Data (Sale Date, Quantity, Payment Mode)
 
-[Motorcycle-sales-dataset](https://github.com/Anmoljoshi19/PP-Motorcycle-sales-data/blob/main/motorcycle_sales_india.csv)
 --------------------------------------------------------------------------------------------------------------------------
 
 **Data Cleaning & Standardization**
@@ -121,7 +120,7 @@ group by Dealer_Name, state, city
 order by total_bikes_sold desc;
 
 ```
-[SQL-code](https://github.com/Anmoljoshi19/PP-Motorcycle-sales-data/blob/main/motorcycle_sales_india.sql)
+[SQL-code-motorcycle-sales-analysis](https://github.com/Anmoljoshi19/PP-Motorcycle-sales-data/blob/main/motorcycle_sales_india.sql)
 
 
 
