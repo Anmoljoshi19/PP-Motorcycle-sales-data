@@ -154,3 +154,4 @@ The findings enable data-driven decision-making for inventory management, pricin
 
 [Dashboard](https://github.com/Anmoljoshi19/PP-Motorcycle-sales-data/blob/main/Project_1_dashboard.PNG)
 [Dashboard_file](https://github.com/Anmoljoshi19/PP-Motorcycle-sales-data/blob/main/Motorcycle_sales_dashboard.pbix)
+
