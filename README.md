@@ -152,4 +152,5 @@ order by total_bikes_sold desc;
 This project helps businesses optimize motorcycle sales strategies by understanding regional demand, payment preferences, and dealership performance. 
 The findings enable data-driven decision-making for inventory management, pricing, and marketing.
 
-Image	![alt text](image.jpg)
+[Dashboard](https://github.com/Anmoljoshi19/PP-Motorcycle-sales-data/blob/main/Project_1_dashboard.PNG)
+[Dashboard_file](https://github.com/Anmoljoshi19/PP-Motorcycle-sales-data/blob/main/Motorcycle_sales_dashboard.pbix)
