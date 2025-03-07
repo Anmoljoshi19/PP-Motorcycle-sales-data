@@ -8,8 +8,8 @@ This project analyzes motorcycle sales data in India using SQL to clean, standar
 
 **Tools Used**
 
-MySQL – Data Cleaning, Transformation & Analysis
-Power BI – For Visualizations
+- MySQL (Data Cleaning, Transformation & Analysis)
+- Power BI (Visualizations)
 
 --------------------------------------------------------------------------------------------------------------------------
 
